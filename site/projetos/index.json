@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "tapetes",
+    "titulo": "Curso de Tapetes de Malha",
+    "resumo": "Técnicas artesanais de confecção de tapetes que promovem criatividade e geração de renda.",
+    "status": "ativo",
+    "statusLabel": "Em andamento",
+    "local": "Brasília / DF",
+    "capa": "projetos/tapetes.webp"
+  },
+  {
+    "slug": "corte-costura",
+    "titulo": "Corte e Costura para Mulheres",
+    "resumo": "Curso profissionalizante que capacita mulheres para o mercado, incentivando o empreendedorismo.",
+    "status": "breve",
+    "statusLabel": "Em breve",
+    "local": "Brasília / DF",
+    "capa": "projetos/corte-costura.webp"
+  },
+  {
+    "slug": "reforco-escolar",
+    "titulo": "Reforço Escolar",
+    "resumo": "Suporte pedagógico no contraturno para crianças e jovens em vulnerabilidade social.",
+    "status": "breve",
+    "statusLabel": "Em breve",
+    "local": "Brasília / DF",
+    "capa": "projetos/reforco-escolar.webp"
+  },
+  {
+    "slug": "tampinhas-lacres",
+    "titulo": "Projeto Tampinhas e Lacres",
+    "resumo": "Recoleta de tampinhas e lacres transformados em equipamentos de acessibilidade para quem precisa.",
+    "status": "ativo",
+    "statusLabel": "Em andamento",
+    "local": "Brasília e Cristalina",
+    "capa": "projetos/tampinhas-lacres.webp"
+  },
+  {
+    "slug": "workshop-compota",
+    "titulo": "Workshop: Compota de Mamão Verde",
+    "resumo": "Culinária artesanal como porta de entrada para a geração de renda e o fortalecimento comunitário.",
+    "status": "realizado",
+    "statusLabel": "Realizado",
+    "local": "Brasília / DF",
+    "capa": "projetos/workshop-compota.webp"
+  },
+  {
+    "slug": "workshop-bolachas",
+    "titulo": "Workshop: Bolachas Artesanais",
+    "resumo": "Confeitaria como ferramenta de descoberta de talentos, bem-estar e oportunidade de renda.",
+    "status": "realizado",
+    "statusLabel": "Realizado",
+    "local": "Brasília / DF",
+    "capa": "projetos/workshop-bolachas.webp"
+  }
+]
