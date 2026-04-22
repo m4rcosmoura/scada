@@ -53,4 +53,13 @@
     "local": "Brasília / DF",
     "capa": "projetos/workshop-bolachas.webp"
   }
+  {
+  "slug": "teste",
+  "titulo": "Teste",
+  "resumo": "Testeteste",
+  "status": "realizado",
+  "statusLabel": "Realizado",
+  "local": "Cristalina - GO",
+  "capa": null
+}
 ]
